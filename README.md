@@ -59,24 +59,24 @@ Your [design product spec](https://hackmd.io/PuKkouVrQai199c4Pr87_A) (described 
 **Flow Navigation** (Screen to Screen)
 
  * Registration Screen
-   => Login Screen
-   => Home Feed
+   * Login Screen
+   * Home Feed
  * Login Screen
-   => Home Feed
+   * Home Feed
  * Home Feed
-   => First Email Inbox
-   => Second Email Inbox
-   => Create Email Tab
+   * First Email Inbox
+   * Second Email Inbox
+   * Create Email Tab
  * First Email Inbox
-   => Home Feed
-   => Second Email Inbox
-   => Create Email Tab
+   * Home Feed
+   * Second Email Inbox
+   * Create Email Tab
  * Second Email Inbox
-   => Home Feed
-   => First Email Inbox
-   => Create Email Tab
+   * Home Feed
+   * First Email Inbox
+   * Create Email Tab
  * Create Email Tab
-   => Go back to previous Tab
+   * Go back to previous Tab
 ---
 
 ### Wireframes

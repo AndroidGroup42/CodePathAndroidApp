@@ -15,8 +15,6 @@
 
 ### User Stories
 
-# README Template
-
 Your [design product spec](https://hackmd.io/PuKkouVrQai199c4Pr87_A) (described in that link) will look like the following in your README:
 
 ## 1. User Stories (Required and Optional)

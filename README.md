@@ -14,9 +14,71 @@
 ---
 
 ### User Stories
-// TODO: Enumerate User Stories
-1. User can...
 
+# README Template
+
+Your [design product spec](https://hackmd.io/PuKkouVrQai199c4Pr87_A) (described in that link) will look like the following in your README:
+
+## 1. User Stories (Required and Optional)
+
+**Required Must-have Stories**
+
+ * User can register an account
+ * User can log-in
+ * Add two different email accounts
+ * User can view emails from both accounts on the same feed
+ * User can write emails
+
+**Optional Nice-to-have Stories**
+
+ * User can view multiple email accounts
+ * User can personalize settings
+ * User can add themes
+ * User can save drafts
+ * User can view sent emails
+
+## 2. Screen Archetypes
+
+ * Register Screen
+     * User can register an account
+ * Login Screen
+     * User can log-in
+     * Add two different email accounts
+* Stream
+    * User can view emails from both accounts on the same feed
+* Creation
+    * User can write emails
+
+## 3. Navigation
+
+**Tab Navigation** (Tab to Screen)
+
+ * Main Inbox(Home Feed)
+ * First Email Inbox
+ * Second Email Inbox
+ * Create Email Tab
+
+**Flow Navigation** (Screen to Screen)
+
+ * Registration Screen
+   => Login Screen
+   => Home Feed
+ * Login Screen
+   => Home Feed
+ * Home Feed
+   => First Email Inbox
+   => Second Email Inbox
+   => Create Email Tab
+ * First Email Inbox
+   => Home Feed
+   => Second Email Inbox
+   => Create Email Tab
+ * Second Email Inbox
+   => Home Feed
+   => First Email Inbox
+   => Create Email Tab
+ * Create Email Tab
+   => Go back to previous Tab
 ---
 
 ### Wireframes

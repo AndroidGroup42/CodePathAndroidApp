@@ -88,6 +88,9 @@ Your [design product spec](https://hackmd.io/PuKkouVrQai199c4Pr87_A) (described 
 ```
 
 ---
+![](https://i.imgur.com/J6qwUqm.gif)
+```
 
+```
 ### App Pitch Presentation
 // TODO: Add link to Pitch Presentation Deck

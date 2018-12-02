@@ -93,4 +93,4 @@ Your [design product spec](https://hackmd.io/PuKkouVrQai199c4Pr87_A) (described 
 
 ```
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/14RDPylrHs89XgoAVvBnUvIABZCu_W5WmjhXfIsO0FQE/edit?usp=sharing
